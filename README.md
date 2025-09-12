@@ -36,7 +36,6 @@ El documento abarca lo siguiente:
 ├── README.md                          # Descripción del repositorio
 ```
 
----
 
 ## 📖 Cómo usar este repositorio
 
