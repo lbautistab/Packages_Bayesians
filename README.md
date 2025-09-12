@@ -3,7 +3,6 @@
 Este repositorio contiene un documento **RMarkdown** diseñado para explorar y demostrar el uso de las principales **librerías de R para Estadística Bayesiana**.  
 El propósito es ofrecer un recurso integral y práctico tanto para investigadores, docentes y estudiantes interesados en la inferencia bayesiana.
 
----
 
 ## 🚀 Contenido del documento
 
@@ -21,7 +20,6 @@ El documento abarca lo siguiente:
 - 📊 Visualización de resultados bayesianos
 - 🤝 Comparación de librerías y recomendaciones
 
----
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -29,7 +27,7 @@ El documento abarca lo siguiente:
 - **Formato:** RMarkdown (`.Rmd`)
 - **Renderizado:** HTML / PDF / Word
 
----
+
 
 ## 📂 Estructura del repositorio
 
@@ -57,7 +55,6 @@ El documento abarca lo siguiente:
    rmarkdown::render("Librerias_Bayesiana_Completo.Rmd", output_format = "html_document")
    ```
 
----
 
 ## 🌐 Publicación en RPubs
 
@@ -65,7 +62,7 @@ Este documento también puede ser consultado en **RPubs** para una visualizació
 
 👉 [Publicación en RPubs](https://rpubs.com/lbautista/PackagesBayesians) 
 
----
+
 
 ## 📌 Autor
 
@@ -75,7 +72,7 @@ Este documento también puede ser consultado en **RPubs** para una visualizació
 📘 Facebook: [StatEdx](https://www.facebook.com/StatEdx)  
 🎵 TikTok: [StatEdx Academy](https://www.tiktok.com/@statedxacademy)
 
----
+
 
 ## ⭐ Contribución
 
@@ -84,7 +81,7 @@ Si deseas contribuir, puedes:
 - Crear un branch con tu mejora o ejemplo.
 - Abrir un **Pull Request**.
 
----
+
 
 ## 📜 Licencia
 
