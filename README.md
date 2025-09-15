@@ -15,7 +15,6 @@ El documento abarca lo siguiente:
   - **brms**
   - **nImeble**
   - **bayesm**
-  - **LaplacesDemon**
 - 🔍 Ejemplos prácticos de uso
 - 📊 Visualización de resultados bayesianos
 - 🤝 Comparación de librerías y recomendaciones
